@@ -219,7 +219,7 @@
                                             <a class="js-acc-btn" href="#">Nahim Udoy</a>
                                         </div>
                                         <div class="account-dropdown js-dropdown">
-                                            {{-- <div class="info clearfix">
+                                            <div class="info clearfix">
                                                 <div class="image">
                                                     <a href="#">
                                                         <img src="{{ asset('admin_assets/images/icon/avatar-01.jpg') }}"
@@ -232,7 +232,7 @@
                                                     </h5>
                                                     <span class="email">nahimudoy@example.com</span>
                                                 </div>
-                                            </div> --}}
+                                            </div>
 
                                             <div class="account-dropdown__footer">
                                                 <a href="{{ url('admin/logout') }}">
